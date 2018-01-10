@@ -2,7 +2,7 @@
 title: Dhurba Baral
 email: dhurba87@gmail.com
 description: Some text about your blog.
-baseurl: "https://blog.dhurbabaral.com.np" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.dhurbabaral.com.np" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
